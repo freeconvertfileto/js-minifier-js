@@ -2,7 +2,7 @@
 
 Remove comments and collapse whitespace from JavaScript source code to reduce file size, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/js-minifier
+**Live Demo:** https://file-converter-free.com/en/developer-tools/js-minifier-online
 
 ## How It Works
 
